@@ -1,2 +1,2 @@
 # online
-setver key
+server key
